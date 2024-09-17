@@ -6,5 +6,9 @@ This is a readme file for Pokey's practice repo for excerise 3 of the Git and Gi
 :)
 ```
 
-Modified the new line "adding to create merge conflict" to resolve it. 
+Modified the new line "adding to create merge conflict" to resolve it.
+
+This is an image of our source tree:
+
+![Source Text](./source_tree.png)
 
